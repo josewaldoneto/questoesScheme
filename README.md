@@ -1,0 +1,1 @@
+## Questões do seminário de paradigmas
